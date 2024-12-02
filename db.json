@@ -1,0 +1,58 @@
+{
+  "users": [
+    {
+      "id": "c255",
+      "name": "RAIMA PAULSON",
+      "contact": "9845678921"
+    },
+    {
+      "id": "b998",
+      "name": "RESHMA",
+      "contact": "9876512345"
+    }
+  ],
+  "meals": [
+    {
+      "id": "1817",
+      "userId": "c255",
+      "date": "2024-12-01",
+      "meals": 8
+    },
+    {
+      "id": "5851",
+      "userId": "c255",
+      "date": "2024-12-01",
+      "meals": 5
+    },
+    {
+      "id": "ad86",
+      "userId": "c255",
+      "date": "2024-12-02",
+      "meals": 4
+    },
+    {
+      "id": "e7a2",
+      "userId": "c255",
+      "date": "2024-12-06",
+      "meals": 9
+    },
+    {
+      "id": "c7b0",
+      "userId": "b998",
+      "date": "2024-12-10",
+      "meals": 4
+    }
+  ],
+  "expenses": [
+    {
+      "id": "8ed6",
+      "date": "2024-12-01",
+      "amount": 1000
+    },
+    {
+      "id": "7c33",
+      "date": "2024-12-11",
+      "amount": 100
+    }
+  ]
+}
